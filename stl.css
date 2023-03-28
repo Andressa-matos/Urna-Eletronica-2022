@@ -1,0 +1,34 @@
+.body{
+    background-color: aqua;
+}
+
+.table{
+    float: left;
+    border: 4px solid;
+    font-size: 20px;
+    font-style: inherit;
+    border: 1px solid rgb(0, 0, 124);
+    border-collapse: separate;
+    background-color: rgb(208, 217, 220);
+    padding: 196px;
+    height: 400px;
+    text-align: center;
+    
+}
+
+.table2{
+    float: right;
+    border: 4px solid;
+    font-size: 20px;
+    font-style: inherit;
+    border: 1px solid rgb(0, 29, 101);
+    border-collapse: separate;
+    background-color: rgb(208, 217, 220);
+    padding: 200px;
+    height: 394px;
+    text-align: center;
+    
+    
+}
+
+
